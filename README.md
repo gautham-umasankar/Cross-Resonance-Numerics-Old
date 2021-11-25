@@ -1,2 +1,2 @@
 # Cross-Resonance-Numerics
-A Python (QuTiP) based simulation to quantify cross resonance gate infidelity
+A Python (QuTiP) based simulation to quantify cross resonance gate infidelity. This has a general Python Class to simulate cross resonance gates between any two qubits in an arbitrary quantum processor. The Class has methods to extract gate infidelity and quantify error due to leakage and due to imperfect rotation. The Jupyter Notebook has details written inside. Documentation is still ongoing.
